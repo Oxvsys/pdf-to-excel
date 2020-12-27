@@ -120,3 +120,8 @@ media/
 
 # Images
 *.png
+*.jpg
+
+# Extra files
+*.pdf
+*.txt
